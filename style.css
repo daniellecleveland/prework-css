@@ -1,0 +1,62 @@
+body {
+    background-color: #efeee7;
+    font-family: Georgia,"Times New Roman",Times,serif;
+    text-color: #333333
+    margin: 0;
+    padding: 0;
+    text-align: center;
+  }
+  
+  h1 {
+    text-align: center;
+    color: #eeeeee;
+    font-size: 28px;
+    text-transform: uppercase;
+    letter-spacing: 10px;
+    background-color: #333333;
+    margin: 0;
+    padding: 20px;
+  }
+
+  h2 {
+    font-size: 24px;
+    font-color:#10d2c2;
+  }
+
+  a {
+    font-color: #d21034
+  }
+
+  
+  p {
+    color: #333333;
+  }
+
+  ul {
+    text-align: center;
+    list-style-position: inside;
+  }
+
+  .darkblue {
+    color: rgb(24, 16, 73);
+  }
+
+  .container {
+    width: 1024px;
+    margin: 0 auto;
+  }
+
+  #fancy {
+    font-family: "Brush Script MT", "Brush Script Std", cursive;
+    color: rgb(126, 99, 113);
+  }
+  
+  #ugly {
+    font-family: "Comic Sans MS";
+    color: rgb(226, 226, 58); 
+  }
+
+  #bio-image {
+    width: 200px;
+    padding: 35px 0px 10px 0px;
+  }
